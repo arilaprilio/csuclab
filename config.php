@@ -1,8 +1,8 @@
 <?php
 
-$db_name = "csuclab";
-$db_user = "anon";
-$db_password = "anon";
+$db_name = "bebas";
+$db_user = "bebas";
+$db_password = "bebas";
 $db_server = "localhost";
 
 $conn = new mysqli($db_server, $db_user, $db_password);
